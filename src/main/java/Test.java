@@ -75,7 +75,7 @@ public class Test {
 //
 //        int i = 1;
 //        if (i++ == --i) {
-//            System.out.printf("0");
+//            System.out.printf("0");  // print 0
 //        } else {
 //            System.out.println("1");
 //        }
